@@ -815,3 +815,4 @@ section.lazy-placeholder:after {
 }
 @media (max-width: 767px) {
   .cid-twYP8lctLI .media-container-column {
+    padding: 1rem !important;
