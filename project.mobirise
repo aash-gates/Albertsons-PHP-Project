@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My Site",
-    "currentPage": "page1.html",
+    "currentPage": "signup.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -79,7 +79,7 @@
         }
       ]
     },
-    "page1.html": {
+    "signup.html": {
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "Sign-up Page",
